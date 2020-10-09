@@ -1,0 +1,29 @@
+
+Ï
+java:S1192F"“Define a constant instead of duplicating this literal "G:\\JavaEEprojectssd\\eMusicStore\\src\\main\\webapp\\WEB-INF\\resources\\images\\" 3 times.(·œšÆüÿÿÿÿ8ÇêáÎ.H‹RCRITICALZ
+CODE_SMELL
+w	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(¾ãºŠùÿÿÿÿHŒRMAJORZ
+CODE_SMELL
+	java:S117f"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆğÿÿÿÿÿHRMINORZ
+CODE_SMELL
+‹
+java:S1128"SRemove this unused import 'org.springframework.web.bind.annotation.RestController'.(±íş¡şÿÿÿÿ8ìÅÆæÍ.HRMINORZ
+CODE_SMELL
+ƒ
+java:S1128"RRemove this unused import 'org.springframework.web.bind.annotation.RequestMethod'.(Ê™ĞÿûÿÿÿÿHRMINORZ
+CODE_SMELL
+g	java:S125E"<This block of commented-out lines of code should be removed.(ÅŒïãHRMAJORZ
+CODE_SMELL
+r
+java:S4684x"@Replace this persistent entity with a simple POJO or DTO object.(Âà¬ûH‘RCRITICALZVULNERABILITY
+h	java:S125ƒ"<This block of commented-out lines of code should be removed.(ÅŒïãH’RMAJORZ
+CODE_SMELL
+	java:S117n"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆğÿÿÿÿÿH“RMINORZ
+CODE_SMELL
+•
+java:S1192S"aDefine a constant instead of duplicating this literal "redirect:/admin/productInventory" 3 times.(™ÊÓ‰şÿÿÿÿH”RCRITICALZ
+CODE_SMELL
+v	java:S112O"FDefine and throw a dedicated exception instead of using a generic one.(èï¸½úÿÿÿÿH•RMAJORZ
+CODE_SMELL
+w
+java:S4684:"@Replace this persistent entity with a simple POJO or DTO object.(Ç‡¢¬øÿÿÿÿH–RCRITICALZVULNERABILITY

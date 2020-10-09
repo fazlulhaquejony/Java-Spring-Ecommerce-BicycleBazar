@@ -1,0 +1,25 @@
+
+`
+java:S37409"/Provide the parametrized type for this generic.(©ÇË°ùÿÿÿÿHüRMAJORZ
+CODE_SMELL
+	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢’Ú‘ÿÿÿÿÿHıRMINORZ
+CODE_SMELL
+|	java:S117$"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇŠ‹HşRMINORZ
+CODE_SMELL
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(²ÂÍÿÿÿÿÿHÿRMINORZ
+CODE_SMELL
+‘
+java:S1488"`Immediately return this expression instead of assigning it to the temporary variable "Products".(¢’Ú‘ÿÿÿÿÿH€RMINORZ
+CODE_SMELL
+
+java:S1488("_Immediately return this expression instead of assigning it to the temporary variable "product".(˜îÁåùÿÿÿÿHRMINORZ
+CODE_SMELL
+a
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»ÚıÿÿÿÿH‚RMINORZ
+CODE_SMELL
+‹
+java:S4144C"ZUpdate this method so that its implementation is not identical to "addProduct" on line 47.(íÄæÊüÿÿÿÿHƒRMAJORZ
+CODE_SMELL
+[
+java:S1905("*Remove this unnecessary cast to "Product".(˜îÁåùÿÿÿÿH„RMINORZ
+CODE_SMELL

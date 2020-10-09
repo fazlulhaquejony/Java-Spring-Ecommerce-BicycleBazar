@@ -1,0 +1,33 @@
+
+~
+java:S4684x"@Replace this persistent entity with a simple POJO or DTO object.(­öµ·ûÿÿÿÿ8Í›ĞáÎ.HæRCRITICALZVULNERABILITY
+~
+java:S1128
+"FRemove this unused import 'org.springframework.stereotype.Controller'.(øŠ—Öùÿÿÿÿ8Í›ĞáÎ.HçRMINORZ
+CODE_SMELL
+~	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(¾ãºŠùÿÿÿÿ8Í›ĞáÎ.HèRMAJORZ
+CODE_SMELL
+Í
+java:S1192G"‘Define a constant instead of duplicating this literal "F:\\JavaEE Project\\eMusicStore\\src\\main\\webapp\\WEB-INF\\resources\\images\\" 3 times.(”¸î¥ÿÿÿÿÿ8Í›ĞáÎ.HéRCRITICALZ
+CODE_SMELL
+ˆ	java:S117g"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆğÿÿÿÿÿ8Í›ĞáÎ.HêRMINORZ
+CODE_SMELL
+—
+java:S1488+"_Immediately return this expression instead of assigning it to the temporary variable "product".(õíìûùÿÿÿÿ8Í›ĞáÎ.HëRMINORZ
+CODE_SMELL
+}	java:S112P"FDefine and throw a dedicated exception instead of using a generic one.(èï¸½úÿÿÿÿ8Í›ĞáÎ.HìRMAJORZ
+CODE_SMELL
+ˆ	java:S117o"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆğÿÿÿÿÿ8Í›ĞáÎ.HíRMINORZ
+CODE_SMELL
+—
+java:S1488p"_Immediately return this expression instead of assigning it to the temporary variable "product".(àéîÿÿÿÿÿ8Í›ĞáÎ.HîRMINORZ
+CODE_SMELL
+n	java:S125F"<This block of commented-out lines of code should be removed.(ÅŒïã8Í›ĞáÎ.HïRMAJORZ
+CODE_SMELL
+o	java:S125ƒ"<This block of commented-out lines of code should be removed.(ÅŒïã8Í›ĞáÎ.HğRMAJORZ
+CODE_SMELL
+Š
+java:S1128"RRemove this unused import 'org.springframework.web.bind.annotation.RequestMethod'.(Ê™Ğÿûÿÿÿÿ8Í›ĞáÎ.HñRMINORZ
+CODE_SMELL
+~
+java:S4684;"@Replace this persistent entity with a simple POJO or DTO object.(Ç‡¢¬øÿÿÿÿ8Í›ĞáÎ.HòRCRITICALZVULNERABILITY
